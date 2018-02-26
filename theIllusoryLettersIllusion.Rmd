@@ -1,12 +1,14 @@
 ---
-title: "Introduction to reading"
+title: "Illusions of reading"
 output:
   revealjs::revealjs_presentation:
     self_contained: false
     reveal_plugins: ["notes", "search"]
 ---
 
-Jordan, T. R., Thomas, S. M., & Scott-Brown, K. C. (1999). The illusory-letters phenomenon: an illustration of graphemic restoration in visual word recognition. Perception, 28(11), 1413–1416.
+## Letter height
+
+![Which is taller?](images_videos/letterHeightIllusion.png)
 
 ## Auditory filling-in words 
 
@@ -17,4 +19,17 @@ http://webpages.mcgill.ca/staff/Group2/abregm1/web/downloadstoc.htm
 
 ## Visual filling-in words
 
-## How to do an experiment
+![](images_videos/illusoryLettersIllusion-verySmall.png)
+
+## Visual filling-in words
+
+![](images_videos/illusoryLettersIllusion-small.png)
+
+## Visual filling-in words
+
+![](images_videos/illusoryLettersIllusion.png)
+
+## The illusory-letters phenomenon
+
+Jordan, T. R., Thomas, S. M., & Scott-Brown, K. C. (1999). The illusory-letters phenomenon: an illustration of graphemic restoration in visual word recognition. Perception, 28(11), 1413–1416.
+
