@@ -1,0 +1,78 @@
+---
+title: "Introduction to reading"
+output:
+  revealjs::revealjs_presentation:
+    self_contained: false
+    reveal_plugins: ["notes", "search"]
+---
+
+# Reading is fast
+
+## How quickly are words processed and read? 
+
+This ad from Honda (click to watch) affords an interesting perspective on this.
+
+[![Honda RSVP ad](http://img.youtube.com/vi/AaiIoi3Eg4o/2.jpg)](
+https://www.youtube.com/watch?v=AaiIoi3Eg4o
+)
+
+<section data-notes="Something notey"></section>
+
+## The words in the ad
+
+:02 We all got them. That .. :03 that tells you that you've done all you could do.
+:04 This is the furthest I can go :04
+:05 I will not be able to top that :05
+I have given my best :06
+But when you force yourself to push :06
+
+## {data-background="images_videos/wpm.png"}
+## 
+
+
+## Reflecting on the ad
+
+Viewing the flurry of words that rush by, you may surprise yourself with your ability to read several of the sentences. But do you feel you were aware of every word? I sometimes have the sense that I didn't experience each word as an individual, they went by too fast, but somehow at the end I nevertheless know what all the words are.
+
+Something similar may happen with normal reading. Good readers can read at about 300 words per minute, and the words in the video go at a similar rate. But in normal reading, you may not get the same sense of not experiencing individual words.
+
+Actually the experience may be similar, but the act of asking yourself about the experience gives different results in the Toyota ad case than in the case of normal reading.
+
+In 'normal' reading - reading words on a page - if you ever ask yourself whether you experienced any particular word, your attention will quickly go back to that word and any more fleeting feeling of the word being gone will immediately be replaced by a full experience of the word.  So we never get to linger on fleeting feelings in normal reading. The feeling in normal reading may be so fleeting that we can't even notice it.
+
+You might expect that we could read normal text faster thanks to seeing and potentially recognizing multiple words simulatneously. 
+
+I went frame-by-frame through several seconds of the beginning video to calculate that some of the sentences are presented at faster than 6 words per second. That's 360 words per minute, not far off normal reading speed.
+
+In fact, most theorists believe that even in normal reading, we only recognize one or at most two words at a time. Our brain can't recognize many words at once, and so from the brain's point of view, normal reading is not very different from reading in this Honda ad.
+
+Molly Potter did many of the most important studies of rapid serial processing of printed words.
+
+# Rapid (normal speed, for most) reading is guessing
+
+>Aoccdrnig to a rscheearch at Cmabrigde Uinervtisy, it deosn't mttaer in waht oredr the ltteers in a wrod are, the olny iprmoetnt tihng is taht the frist and lsat ltteer be at the rghit pclae. The rset can be a toatl mses and you can sitll raed it wouthit porbelm. Tihs is bcuseae the huamn mnid deos not raed ervey lteter by istlef, but the wrod as a wlohe.
+
+References to related actual published research [here](https://www.mrc-cbu.cam.ac.uk/people/matt.davis/cmabridge/)
+
+## Drilling into what the demo means
+
+- Reading probably always involves a lot of guessing, but normally there's no conflict between the guess and reality
+
+- This particular demo only works because the jumbling is done in certain ways. Try those on the next slide
+
+<section data-notes="Transpositions of adjacent letters (e.g. porbelm for problem) are easier to read than more distant transpositions (e.g. pborlem)"></section>
+## 
+
+> A vheclie epxledod at a plocie cehckipont near the UN haduqertares in Bagahdd on Mnoday kilinlg the bmober and an Irqai polcie offceir
+
+> Big ccunoil tax ineesacrs tihs yaer hvae seezueqd the inmcoes of mnay pneosenirs
+
+> A dootcr has aimttded the magltheuansr of a tageene ceacnr pintaet who deid aetfr a hatospil durg blendur
+
+## When jumbling doesn't disrupt reading much
+
+- Transpositions of adjacent letters (e.g. porbelm for problem) are easier to read than more distant transpositions (e.g. pborlem)
+
+- don't change 2 or 3 letter words 
+
+

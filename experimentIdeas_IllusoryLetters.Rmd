@@ -1,0 +1,9 @@
+---
+title: "Experiment ideas"
+output: html_document
+---
+
+## 
+
+* whether the illusion is different in L & R vis fields.  Kim has a reference claiming that the phonemic restoration illusion (where a phoneme in a word is replaced with noise, but listeners hear it as continuous) shows key EEG marker related to context on left hemisphere only.
+
