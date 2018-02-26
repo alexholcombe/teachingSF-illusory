@@ -6,4 +6,15 @@ output: html_document
 ## 
 
 * whether the illusion is different in L & R vis fields.  Kim has a reference claiming that the phonemic restoration illusion (where a phoneme in a word is replaced with noise, but listeners hear it as continuous) shows key EEG marker related to context on left hemisphere only.
+* Control, horizontal-flip, letter-flip and vertical-flip, each letter mirror-reversed, inverted and reversed, rotated 45 degrees
+* one word forwards, one word backwards simultaneously
+* Wide spacing versus not
+* Does filled-in percept strongly tend to be higher-frequency word?  What if intact lower-frequency word is placed nearby?
+* If Pelli is right about A/V integration and Conrad Perry is right about feedback from phonological representation, then hearing a word while looking at the illusory letters phenomenon should have a big effect on which letters you see in the middle
+* What if there is a crossword with horizontal and vertical words. Would the horizontal dominate? When you switch your attention between the two, would the letter identity change?  Also try writing the letters left-right reversed.
+* Measure the varying importance of 1st, 2nd, 3rd, 4th letter position
+* Make ambiguous illusory contour, see if context creates modal completion that wouldn’t otherwise occur, like with the Bregman B’s. Or do it with amodal completion.
+* Try all-CAPS instead of lower case. If works, would allow greater range of letters to be used.
+* Weird font versus not.
+
 

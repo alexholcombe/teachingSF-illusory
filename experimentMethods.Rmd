@@ -1,0 +1,20 @@
+---
+title: "Experiment ideas"
+output: html_document
+---
+
+## Original study
+
+## Arabic study
+
+Twelve illusory stimuli were formed from twelve, three-letter Arabic words in which the middle letter was replaced by a nonsense pattern composed of only dots (see figure 2). Following the procedure of the original study (Jordan et al., 1999), illusory stimuli were randomly intermingled with other, complete three-letter Arabic words (ie words that contained all their letters). All stimuli were presented one above the other in a vertical column in high- contrast black on white and were viewed under bright lighting conditions. Each stimulus measured approximately 25 mm horizontally.
+
+Participants were twenty fluent, native Arabic readers from the United Arab Emirates, aged between 18 and 21 years. To accommodate individual differences in visual acuity, the visibility of stimuli was adjusted by using a separate set of 10 complete three-letter Arabic words and altering viewing distance until accuracy of word report for these items was approximately 90%. The experimental items were then presented and participants read out loud what they saw for each stimulus. In addition, participants were required at regular intervals to identify which stimuli were the most legible.
+Mean accuracy of report for complete (ie normal) word stimuli was 97%, indicating that the visual information encoded from these stimuli was sufficient for high levels of accurate word recognition. Moreover, 100% of responses made to illusory stimuli showed the ILP, and responses were produced with no apparent (or reported) effort by participants, indicating that the visual information encoded from each illusory stimulus was sufficient to produce the phenomenological experience of ‘normal’ word content. Indeed, when requested during each session, participants were unable to distinguish between normal and illusory stimuli, and traced the outline of all three letters in illusory stimuli with their fingers even though no letter was physically present in any interior position. This point is supported by the finding that, when asked to name the most legible stimuli, 49% were complete words and 51% were illusory-letters stimuli (p > 0.20 by a sign test).
+
+
+* Discriminate real word from illusory-letters word. 
+Put one string above fixation and one below.
+Maybe jitter the size of the letters randomly a bit so can’t use cue of different size of the mask.
+In case ceiling effect on discrimination performance, also ask people to rate how much it looks like word.
+
