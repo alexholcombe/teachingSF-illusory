@@ -1,0 +1,80 @@
+---
+title: "Fair Open Access"
+author: "Alex Holcombe"
+date: "3/2018"
+output:
+  revealjs::revealjs_presentation:
+    self_contained: false
+    reveal_plugins: ["notes", "search"]
+    css: alex.css
+    reveal_options:
+      slideNumber: true
+---
+<!-- 30 min including questions -->
+<!--https://stackoverflow.com/questions/23082660/how-to-style-images-in-reveal-js -->
+
+## Fair Open Access (fairopenaccess.org)
+
+![Fair Open Access](images_videos/foaa-logo-300x212.jpg)
+
+<small>Alex Holcombe;</small>
+<small>Professor, The University of Sydney;</small>
+<small>Chair, PsyOA.org</small>
+
+<aside class="notes">
+	's' to open speaker prsentation with notes view
+</aside>
+## Scholarly articles
+
+- Much is signed over to publishers who charge us to read it.
+
+- Open-access journals have made major headway, but not enough
+- Universities are still paying more each year for journal content.
+
+## APC
+
+- In science especially, many journals are funded by APCs - Author Processing Charges.
+
+- Paid for by grant funder, university, or even out-of-pocket.
+
+## Problems with APCs
+
+- Disadvantage poor authors (although many journals have waivers for developing countries)
+
+- Prices can be high; not saving academia much money 
+
+    - Scientific Reports ($1,760) versus Nature Communications ($5,200)
+
+## FairOA - Fair Open Access
+
+- Open access
+
+- No fees
+
+- Governance transparent and by the scholarly community
+
+## The FairOA Principles - fairopenaccess.org
+
+- The journal has a transparent ownership structure, and is controlled by and responsive to the scholarly community.
+
+- Authors of articles in the journal retain copyright.
+
+- All articles are published open access and an explicit open access licence is used.
+
+- Submission and publication is not conditional in any way on the payment of a fee from the author or its employing institution, or on membership of an institution or society.
+
+- Any fees paid on behalf of the journal to publishers are low, transparent, and in proportion to the work carried out.
+
+## The FairOA Foundations
+
+- promote and support initiatives concerning (Fair) Open Access publications in the broadest sense;
+- acquire resources and financially sustain (Fair) Open Access publications;
+- support foundations financially and otherwise in various disciplines (xxxOA’s) that pursue the same goals;
+- expand the Open Library of Humanities to other disciplines.
+- propagate and promote the principles of Fair Open Access over all disciplines of science.
+
+<aside class="notes">
+	Note:
+Small grant from somewhere
+</aside>
+	

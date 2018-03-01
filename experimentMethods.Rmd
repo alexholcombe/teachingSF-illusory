@@ -5,6 +5,12 @@ output: html_document
 
 ## Original study
 
+
+2.1.2 Stimuli. Four lists of different stimuli were constructed and presented to each participant. Each list was composed of 10 four-letter words printed in lowercase with both interior letters replaced by the nonsense characters which broadly matched the overall height of the original neutral letters (eg a, e, n, r, s, etc). *These `illusory-letters' stimuli were randomly intermingled with 10 complete four-letter words (ie words which contained all their letters)* which shared none of the exterior letter combinations used for the illusory-letters stimuli. Thus, each participant was shown 40 complete words and 40 illusory-letters stimuli. All stimuli were presented horizontally, one above the other in a vertical column, in high contrast black on white paper and were viewed under bright lighting conditions. Each stimulus measured approximately 15 mm horizontally.
+ 
+2.1.3 Procedure. Participants were told that the purpose of the experiment was to investigate the legibility of different words. To allow for individual differences in visual acuity, the visual angle of each stimulus was adjusted by using a test list of 20 complete four-letter words and decreasing viewing distance until accuracy of report for each list was approximately 90%. Mean viewing distance was 2.1 m. The four experimental lists were then presented one at a time in random order and participants were required to read each stimulus out loud. Responses were noted by the experimenter. At the end of each list, participants were asked to select the 10 stimuli in that list which they thought were the most legible. This forced-choice procedure provided an assessment of the legibility of illusory-letters stimuli relative to complete words. At the end of the experiment, participants were asked to comment on their perceptions of the stimuli they had been shown and were made aware of the nature of the illusory-letters stimuli used.
+ 
+ 
 ## Arabic study
 
 Twelve illusory stimuli were formed from twelve, three-letter Arabic words in which the middle letter was replaced by a nonsense pattern composed of only dots (see figure 2). Following the procedure of the original study (Jordan et al., 1999), illusory stimuli were randomly intermingled with other, complete three-letter Arabic words (ie words that contained all their letters). All stimuli were presented one above the other in a vertical column in high- contrast black on white and were viewed under bright lighting conditions. Each stimulus measured approximately 25 mm horizontally.
