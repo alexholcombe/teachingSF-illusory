@@ -3,8 +3,10 @@ title: "Introduction to reading"
 output:
   revealjs::revealjs_presentation:
     self_contained: false
-    reveal_plugins: ["notes", "search"]
+    reveal_plugins: ["notes", "search"]#,"title-footer"] #Unfortunately you can only use plugins expressly supported here https://github.com/rstudio/revealjs/blob/master/R/revealjs_presentation.R
 ---
+
+## Introduction to reading
 
 # Reading is fast
 
@@ -16,7 +18,11 @@ This ad from Honda (click to watch) affords an interesting perspective on this.
 https://www.youtube.com/watch?v=AaiIoi3Eg4o
 )
 
-<section data-notes="Something notey"></section>
+	
+<aside class="notes">
+	's' to open speaker presentation with notes view
+	'f' enable fullscreen mode
+	'o' enable overview mode"></aside>
 
 ## The words in the ad
 
@@ -26,7 +32,9 @@ https://www.youtube.com/watch?v=AaiIoi3Eg4o
 I have given my best :06
 But when you force yourself to push :06
 
-
+<aside class="notes">
+When you first learned to read, you sounded out the letters. But now, unless you have severe dyslexia, for many words you recognize them in some other way.
+And you manage to put it all together, stringing together rapidly the series of words.</aside>
 
 ## Reflecting on the ad, part 1
 
@@ -40,13 +48,14 @@ Actually the experience may be similar, but the act of asking yourself about the
 
 In 'normal' reading - reading words on a page - if you ever ask yourself whether you experienced any particular word, your attention will quickly go back to that word and any more fleeting feeling of the word being gone will immediately be replaced by a full experience of the word.  So we never get to linger on fleeting feelings in normal reading. The feeling in normal reading may be so fleeting that we can't even notice it.
 
-You might expect that we could read normal text faster thanks to seeing and potentially recognizing multiple words simulatneously. 
+## Reflecting on the ad, part 3
 
-I went frame-by-frame through several seconds of the beginning video to calculate that some of the sentences are presented at faster than 6 words per second. That's 360 words per minute, not far off normal reading speed.
+You might expect that we could read normal text, like this, faster thanks to seeing and potentially recognizing multiple words simulatneously. 
 
 In fact, most theorists believe that even in normal reading, we only recognize one or at most two words at a time. Our brain can't recognize many words at once, and so from the brain's point of view, normal reading is not very different from reading in this Honda ad.
 
-Molly Potter did many of the most important studies of rapid serial processing of printed words.
+<aside class="notes">
+I went frame-by-frame through several seconds of the beginning video to calculate that some of the sentences are presented at faster than 6 words per second. That's 360 words per minute, not far off normal reading speed. </aside>
 
 ## {data-background="images_videos/wpm.png"}
 ##
