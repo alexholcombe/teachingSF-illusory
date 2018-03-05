@@ -60,6 +60,17 @@ I went frame-by-frame through several seconds of the beginning video to calculat
 ## {data-background="images_videos/wpm.png"}
 ##
 
+## Week 2+ agenda
+
+- More general information about reading
+- Theories of word recognition
+- The letter height illusion
+    - what does it mean?
+- The illusory letters illusion
+    - what does it mean?
+- Choose which week and paper you will present
+- Detailed consideration of illusory letters illusion method
+
 # Normal reading is guessing
 
 ## 

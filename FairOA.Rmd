@@ -26,11 +26,19 @@ output:
 	'f' enable fullscreen mode
 	'o' enable overview mode
 </aside>
+
+## Journals are communities of scholars
+
+- Often owned or run by a publisher
+
+- The interests of the publishers do not align well with that of scholars or the public
+
 ## Scholarly articles
 
 - Much is signed over to publishers who charge us to read it.
 
 - Open-access journals have made major headway, but still far to go.
+    - Does not fully address the misalignment problem.
     - Universities are still paying more each year for journal content.
 
 ## APC
@@ -96,14 +104,20 @@ Small grant from OPenAIRE
 
 ## LingOA
 
-A leading subscription linguisics journal left their publisher (Elsevier).
+A leading subscription linguisics journal left their owner (Elsevier).
 
-LingOA facilitates this radical move by paying for the Article Processing charges of the articles published in these journals during the next five years. The journals Glossa, Laboratory Phonology, and Journal of Portuguese Linguistics will be published (online only) by Ubiquity Press, but LingOA will work with any publisher who complies with the above Fair Open Access conditions. To ensure long-term sustainability, LingOA has partnered with the Open Library of Humanities. 
+Journals published instead by Open Library of the Humanities, under a contract:
 
-## Specific assistance
+- Glossa
+- Laboratory Phonology
+- Journal of Portuguese Linguistics 
+
+## Specific assistance 
+
 
 - List, comparison of low-cost publishers
 - Access to legal advice
 - Feedback on strategy
 
+![alt txt](images_videos/foaa-logo-300x212.jpg)
 
