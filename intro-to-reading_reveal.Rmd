@@ -62,6 +62,7 @@ I went frame-by-frame through several seconds of the beginning video to calculat
 
 ## Week 2+ agenda
 
+- Reschedule week 3
 - More general information about reading
 - Theories of word recognition
 - The letter height illusion

@@ -37,8 +37,13 @@ output:
 
 ## Journals are (approximately) communities of scholars
 
-> - Often owned or run by a publisher
-> - The interests of publishers often do not align well with that of scholars or the public
+> - But often owned or run by a publisher
+> - The interests of publishers typically do not align well with that of scholars or the public
+
+<aside class="notes">
+  Typicaly they were created by scholars in order to get their work out to be read and used by the world.
+  But many publishers have ended up with a business model based on restricting access.
+</aside>
 
 ## Scholarly articles
 
@@ -58,6 +63,10 @@ output:
 
 - Paid for by grant funder, university, or even out-of-pocket.
 
+<aside class="notes">
+	some unfortunate aspects to this
+</aside>
+
 ## Unfortunate aspects of APCs
 
 - Disadvantage poor authors (although many journals have waivers for developing countries)
@@ -67,6 +76,7 @@ output:
     - Scientific Reports ($1,760) versus Nature Communications ($5,200)
 
 <aside class="notes">
+Greater appreciation of this recently esp. in the UK
 We're not necessarily opposed to other approaches like OA2020.
 </aside>
 
@@ -81,6 +91,7 @@ Formulated by a group of researchers and university librarians.
 - Governance transparent and by the scholarly community
 
 <aside class="notes">
+Fair in that you don't 
 Fair means the journal is run by the people who are most responsible for it.
 </aside>
 
@@ -118,9 +129,9 @@ Small grant from OPenAIRE
 A leading subscription linguisics journal left their owner (Elsevier). New journal *Glossa* created, pubished by
 Open Library of the Humanities *under a contract*.
 
-## Flipped recently
+## Journals that flipped recently
 
-> - Algebraic Combinatorics (Scholastica
+> - Algebraic Combinatorics (Mersenne)
 > - Journal of Cognition (Ubiquity) (seeking funding)
 
 
@@ -129,6 +140,10 @@ Open Library of the Humanities *under a contract*.
 - List, comparison of low-cost publishers
 - Access to legal advice
 - Feedback on strategy
+
+<aside class="notes">
+Editorial community building advice.
+</aside>
 
 ![alt txt](images_videos/foaa-logo-300x212.jpg)
 
