@@ -5,21 +5,29 @@ date: "3/2018"
 output:
   revealjs::revealjs_presentation:
     self_contained: false
-    reveal_plugins: ["notes", "search","title-footer"]
+    reveal_plugins: ["notes", "search"]#,"title-footer"]
     css: alex.css
     reveal_options:
       slideNumber: true
+    pandoc_args: [
+      "--title-prefix", "Foo",
+      "--id-prefix", "Bar"
+    ]
 ---
 <!-- 30 min including questions -->
 <!--https://stackoverflow.com/questions/23082660/how-to-style-images-in-reveal-js -->
 
-## Fair Open Access (fairopenaccess.org)
+## Fair Open Access 
+
+<small>fairopenaccess.org</small>
 
 ![Fair Open Access](images_videos/foaa-logo-300x212.jpg)
 
-<small>Alex Holcombe;</small>
-<small>Professor, The University of Sydney;</small>
+<small>Alex Holcombe</small> <small>(Professor, the University of Sydney)</small>
+
 <small>Chair, PsyOA.org</small>
+
+![alt text](images_videos/psyOAsmall.png)
 
 <aside class="notes">
 	's' to open speaker presentation with notes view
@@ -27,23 +35,26 @@ output:
 	'o' enable overview mode
 </aside>
 
-## Journals are communities of scholars
+## Journals are (approximately) communities of scholars
 
-- Often owned or run by a publisher
-
-- The interests of the publishers do not align well with that of scholars or the public
+> - Often owned or run by a publisher
+> - The interests of publishers often do not align well with that of scholars or the public
 
 ## Scholarly articles
 
-- Much is signed over to publishers who charge us to read it.
+- Copyright signed over to publishers who then charge us to read.
 
 - Open-access journals have made major headway, but still far to go.
-    - Does not fully address the misalignment problem.
+    - Do not fully address the misalignment problem.
     - Universities are still paying more each year for journal content.
+
+## OA2020
+
+![OA2020](images_videos/OA2020.png)
 
 ## APC
 
-- In science especially, many journals are funded by APCs - Author Processing Charges.
+- In science, many open access journals are funded by APCs - Author Processing Charges.
 
 - Paid for by grant funder, university, or even out-of-pocket.
 
@@ -104,16 +115,16 @@ Small grant from OPenAIRE
 
 ## LingOA
 
-A leading subscription linguisics journal left their owner (Elsevier).
+A leading subscription linguisics journal left their owner (Elsevier). New journal *Glossa* created, pubished by
+Open Library of the Humanities *under a contract*.
 
-Journals published instead by Open Library of the Humanities, under a contract:
+## Flipped recently
 
-- Glossa
-- Laboratory Phonology
-- Journal of Portuguese Linguistics 
+> - Algebraic Combinatorics (Scholastica
+> - Journal of Cognition (Ubiquity) (seeking funding)
 
-## Specific assistance 
 
+## Specific assistance the FairOAs provide
 
 - List, comparison of low-cost publishers
 - Access to legal advice
