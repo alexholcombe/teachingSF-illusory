@@ -59,7 +59,7 @@ output:
 
 ## APC
 
-- In science, many open access journals are funded by APCs - Author Processing Charges.
+- In science, many open access journals are funded by APCs - Article Processing Charges.
 
 - Paid for by grant funder, university, or even out-of-pocket.
 
