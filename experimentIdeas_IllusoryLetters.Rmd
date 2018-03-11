@@ -3,7 +3,34 @@ title: "Experiment ideas"
 output: html_document
 ---
 
-## 
+## Some week 2 reactions about illusory letters
+
+I am still confused with the difference between object-centered and stimulus-centered representation of hemispatial neglect. From the reading my understanding of stimulus-centered representations is that the midline is based on the stimulus as the name suggests, such that individuals would only respond to the left side of each stimulus regardless whether the stimulus was placed to the left or right of their visual field.
+
+With object-centered, in the example given about letter H being the left of letter O in the word HORSE, even if the letter horse was upside down or diagonal, individuals with lesions in the right hemisphere will not be able to process the letter H?
+
+The first was that the nonsense characters in place of the letter were physically similar in terms of the height and length of what the word would look like. But I think I agree with the second explanation more. This explanation states that we do not recognize words based on the individual letters, such that as long as the exterior letters are in the right place we can recognize the words because they act as a boundary to how we perceive the word.
+
+If this is the case, would we expect the effect to disappear if letters commonly associated with different letter heights were used? For example, if we used bxxh as an illusionary letter stimuli, word participants recognise bxxh as the word both
+
+The article talked about 4 letter words, but what about longer words? Could they be
+recognisable with 50% of illusory letters too, or maybe they can only be recognisable with 2
+illusory letters like the ones in the example. It would also be interesting to read about whether it
+needs to be specific letters that are substituted into illusory letters, e.g. they left the initial and
+last letters, so I assume it is harder to recognise a word where the initial word is illusory, perhaps
+because there is no phonetic basis for us to determine the word.
+
+Also perhaps missing vowels are easier to guess than missing consonants. I was also unsure
+whether the nonsensical symbols were different from the ones shown in the examples - the way
+they described it (as sort of matching the missing letter) seemed like they weren't just a circle
+made of diagonal lines (like the one in the example). I think it would be interesting to see the
+actual examples they used, since the circle of diagonal lines shown in the example kind of
+represented an 'o', and the direction of the diagonal lines can make it easier to read the missing
+letter as an 'e'. Also, it seems easier to fill in vowels (and round vowels, at that) in those
+examples than it does consonants, for example it's easier to read the first example as 'head' or
+'heed' or 'hood', than it is to read it as 'hind' or 'herd'.
+
+## Alex's list of ideas
 
 * whether the illusion is different in L & R vis fields.  Kim has a reference claiming that the phonemic restoration illusion (where a phoneme in a word is replaced with noise, but listeners hear it as continuous) shows key EEG marker related to context on left hemisphere only.
 * Control, horizontal-flip, letter-flip and vertical-flip, each letter mirror-reversed, inverted and reversed, rotated 45 degrees
