@@ -1,5 +1,5 @@
 ---
-title: "Experiment ideas"
+title: "Jordan's experiment methods"
 output: html_document
 ---
 

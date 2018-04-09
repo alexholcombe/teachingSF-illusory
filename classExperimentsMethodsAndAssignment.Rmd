@@ -1,0 +1,17 @@
+---
+title: "Class experiments"
+output: html_document
+---
+
+### Number of participants
+
+### Chloe's font
+
+### Number of items
+
+Original paper: "The four experimental lists were then presented one at a time in random order and participants were required to read each stimulus out loud. Responses were noted by the experimenter. At the end of each list, participants were asked to select the 10 stimuli in that list which they thought were the most legible."
+
+### Include the original comparison - mentioned last class
+
+### Matching word frequency etc. http://elexicon.wustl.edu
+
